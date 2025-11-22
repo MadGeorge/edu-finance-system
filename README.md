@@ -3,9 +3,9 @@
 # Environment
 
 - python 3.8.10
-- tkinter
+- tkinter 3.14
 
-For Mac and Linux you may need to install python-tk
+For Mac and Linux you may need to install python-tk (tkinter)
 
 **Linux**
 
